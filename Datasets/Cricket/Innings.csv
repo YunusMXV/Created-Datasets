@@ -1,0 +1,111 @@
+Name,Number,Match,Batting Team,Bowling Team,Score,Notes
+Match_1_Innings_1,1,Match_1,India,USA,160/5,India won by 45 runs
+Match_1_Innings_2,2,Match_1,USA,India,115/5,India won by 45 runs
+Match_2_Innings_1,1,Match_2,Pakistan,India,192/7,Pakistan won by 16 runs
+Match_2_Innings_2,2,Match_2,India,Pakistan,176/9,Pakistan won by 16 runs
+Match_3_Innings_1,1,Match_3,India,Canada,199/5,India won by 5 runs
+Match_3_Innings_2,2,Match_3,Canada,India,194/10,India won by 5 runs
+Match_4_Innings_1,1,Match_4,Ireland,India,162/5,India won by 7 wickets (40 balls remaining)
+Match_4_Innings_2,2,Match_4,India,Ireland,164/3,India won by 7 wickets (40 balls remaining)
+Match_5_Innings_1,1,Match_5,USA,Pakistan,192/8,Pakistan won by 7 wickets (2 balls remaining)
+Match_5_Innings_2,2,Match_5,Pakistan,USA,198/3,Pakistan won by 7 wickets (2 balls remaining)
+Match_6_Innings_1,1,Match_6,Canada,USA,131/2,Canada won by 28 runs
+Match_6_Innings_2,2,Match_6,USA,Canada,103/5,Canada won by 28 runs
+Match_7_Innings_1,1,Match_7,USA,Ireland,127/6,USA won by 13 runs
+Match_7_Innings_2,2,Match_7,Ireland,USA,114/4,USA won by 13 runs
+Match_8_Innings_1,1,Match_8,Canada,Pakistan,213/9,Pakistan won by 6 wickets (24 balls remaining)
+Match_8_Innings_2,2,Match_8,Pakistan,Canada,216/4,Pakistan won by 6 wickets (24 balls remaining)
+Match_9_Innings_1,1,Match_9,Ireland,Pakistan,199/5,Pakistan won by 6 wickets (29 balls remaining)
+Match_9_Innings_2,2,Match_9,Pakistan,Ireland,204/4,Pakistan won by 6 wickets (29 balls remaining)
+Match_10_Innings_1,1,Match_10,Ireland,Canada,128/8,Ireland won by 10 runs
+Match_10_Innings_2,2,Match_10,Canada,Ireland,118/7,Ireland won by 10 runs
+Match_11_Innings_1,1,Match_11,Australia,England,128/4,Australia won by 11 runs
+Match_11_Innings_2,2,Match_11,England,Australia,117/10,Australia won by 11 runs
+Match_12_Innings_1,1,Match_12,Scotland,Australia,201/8,Australia won by 2 wickets (32 balls remaining)
+Match_12_Innings_2,2,Match_12,Australia,Scotland,205/8,Australia won by 2 wickets (32 balls remaining)
+Match_13_Innings_1,1,Match_13,Namibia,Australia,139/5,Australia won by 9 wickets (47 balls remaining)
+Match_13_Innings_2,2,Match_13,Australia,Namibia,145/1,Australia won by 9 wickets (47 balls remaining)
+Match_14_Innings_1,1,Match_14,Australia,Oman,207/8,Australia won by 6 runs
+Match_14_Innings_2,2,Match_14,Oman,Australia,201/8,Australia won by 6 runs
+Match_15_Innings_1,1,Match_15,England,Scotland,206/6,England won by 10 runs
+Match_15_Innings_2,2,Match_15,Scotland,England,196/8,England won by 10 runs
+Match_16_Innings_1,1,Match_16,England,Namibia,192/10,England won by 45 runs
+Match_16_Innings_2,2,Match_16,Namibia,England,147/6,England won by 45 runs
+Match_17_Innings_1,1,Match_17,Oman,England,201/7,England won by 5 wickets (27 balls remaining)
+Match_17_Innings_2,2,Match_17,England,Oman,203/5,England won by 5 wickets (27 balls remaining)
+Match_18_Innings_1,1,Match_18,Namibia,Scotland,159/0,Namibia won by 4 runs
+Match_18_Innings_2,2,Match_18,Scotland,Namibia,155/0,Namibia won by 4 runs
+Match_19_Innings_1,1,Match_19,Scotland,Oman,127/7,Scotland won by 5 runs
+Match_19_Innings_2,2,Match_19,Oman,Scotland,122/5,Scotland won by 5 runs
+Match_20_Innings_1,1,Match_20,Oman,Namibia,182/7,Oman won by 44 runs
+Match_20_Innings_2,2,Match_20,Namibia,Oman,138/8,Oman won by 44 runs
+Match_21_Innings_1,1,Match_21,Afghanistan,West Indies,181/2,West Indies won by 9 wickets (29 balls remaining)
+Match_21_Innings_2,2,Match_21,West Indies,Afghanistan,183/1,West Indies won by 9 wickets (29 balls remaining)
+Match_22_Innings_1,1,Match_22,West Indies,New Zealand,196/6,New Zealand won by 5 wickets (1 balls remaining)
+Match_22_Innings_2,2,Match_22,New Zealand,West Indies,202/5,New Zealand won by 5 wickets (1 balls remaining)
+Match_23_Innings_1,1,Match_23,Uganda,West Indies,135/9,West Indies won by 3 wickets (29 balls remaining)
+Match_23_Innings_2,2,Match_23,West Indies,Uganda,138/7,West Indies won by 3 wickets (29 balls remaining)
+Match_24_Innings_1,1,Match_24,Papua New Guinea,West Indies,213/1,Papua New Guinea won by 16 runs
+Match_24_Innings_2,2,Match_24,West Indies,Papua New Guinea,197/5,Papua New Guinea won by 16 runs
+Match_25_Innings_1,1,Match_25,New Zealand,Afghanistan,162/6,Afghanistan won by 3 wickets (2 balls remaining)
+Match_25_Innings_2,2,Match_25,Afghanistan,New Zealand,163/7,Afghanistan won by 3 wickets (2 balls remaining)
+Match_26_Innings_1,1,Match_26,Uganda,Afghanistan,128/5,Uganda won by 11 runs
+Match_26_Innings_2,2,Match_26,Afghanistan,Uganda,117/6,Uganda won by 11 runs
+Match_27_Innings_1,1,Match_27,Papua New Guinea,Afghanistan,130/5,Afghanistan won by 6 wickets (29 balls remaining)
+Match_27_Innings_2,2,Match_27,Afghanistan,Papua New Guinea,134/4,Afghanistan won by 6 wickets (29 balls remaining)
+Match_28_Innings_1,1,Match_28,New Zealand,Uganda,135/7,Uganda won by 9 wickets (38 balls remaining)
+Match_28_Innings_2,2,Match_28,Uganda,New Zealand,140/1,Uganda won by 9 wickets (38 balls remaining)
+Match_29_Innings_1,1,Match_29,Papua New Guinea,New Zealand,184/7,New Zealand won by 9 wickets (43 balls remaining)
+Match_29_Innings_2,2,Match_29,New Zealand,Papua New Guinea,186/1,New Zealand won by 9 wickets (43 balls remaining)
+Match_30_Innings_1,1,Match_30,Papua New Guinea,Uganda,149/3,Papua New Guinea won by 21 runs
+Match_30_Innings_2,2,Match_30,Uganda,Papua New Guinea,128/9,Papua New Guinea won by 21 runs
+Match_31_Innings_1,1,Match_31,Bangladesh,South Africa,198/0,South Africa won by 1 wickets (4 balls remaining)
+Match_31_Innings_2,2,Match_31,South Africa,Bangladesh,204/9,South Africa won by 1 wickets (4 balls remaining)
+Match_32_Innings_1,1,Match_32,South Africa,Sri Lanka,155/9,Sri Lanka won by 5 wickets (23 balls remaining)
+Match_32_Innings_2,2,Match_32,Sri Lanka,South Africa,156/5,Sri Lanka won by 5 wickets (23 balls remaining)
+Match_33_Innings_1,1,Match_33,Netherlands,South Africa,129/5,South Africa won by 5 wickets (36 balls remaining)
+Match_33_Innings_2,2,Match_33,South Africa,Netherlands,133/5,South Africa won by 5 wickets (36 balls remaining)
+Match_34_Innings_1,1,Match_34,Nepal,South Africa,190/8,Nepal won by 19 runs
+Match_34_Innings_2,2,Match_34,South Africa,Nepal,171/5,Nepal won by 19 runs
+Match_35_Innings_1,1,Match_35,Sri Lanka,Bangladesh,156/8,Bangladesh won by 1 wickets (10 balls remaining)
+Match_35_Innings_2,2,Match_35,Bangladesh,Sri Lanka,159/9,Bangladesh won by 1 wickets (10 balls remaining)
+Match_36_Innings_1,1,Match_36,Bangladesh,Netherlands,142/0,Netherlands won by 1 wickets (42 balls remaining)
+Match_36_Innings_2,2,Match_36,Netherlands,Bangladesh,144/9,Netherlands won by 1 wickets (42 balls remaining)
+Match_37_Innings_1,1,Match_37,Bangladesh,Nepal,191/7,Bangladesh won by 35 runs
+Match_37_Innings_2,2,Match_37,Nepal,Bangladesh,156/6,Bangladesh won by 35 runs
+Match_38_Innings_1,1,Match_38,Sri Lanka,Netherlands,135/5,Netherlands won by 1 wickets (2 balls remaining)
+Match_38_Innings_2,2,Match_38,Netherlands,Sri Lanka,140/9,Netherlands won by 1 wickets (2 balls remaining)
+Match_39_Innings_1,1,Match_39,Sri Lanka,Nepal,149/10,Sri Lanka won by 29 runs
+Match_39_Innings_2,2,Match_39,Nepal,Sri Lanka,120/2,Sri Lanka won by 29 runs
+Match_40_Innings_1,1,Match_40,Netherlands,Nepal,216/10,Nepal won by 4 wickets (21 balls remaining)
+Match_40_Innings_2,2,Match_40,Nepal,Netherlands,221/6,Nepal won by 4 wickets (21 balls remaining)
+Match_41_Innings_1,1,Match_41,India,England,183/9,India won by 9 runs
+Match_41_Innings_2,2,Match_41,England,India,174/5,India won by 9 runs
+Match_42_Innings_1,1,Match_42,India,Afghanistan,146/5,India won by 17 runs
+Match_42_Innings_2,2,Match_42,Afghanistan,India,129/5,India won by 17 runs
+Match_43_Innings_1,1,Match_43,Bangladesh,India,141/7,India won by 2 wickets (29 balls remaining)
+Match_43_Innings_2,2,Match_43,India,Bangladesh,143/8,India won by 2 wickets (29 balls remaining)
+Match_44_Innings_1,1,Match_44,England,Afghanistan,201/7,England won by 37 runs
+Match_44_Innings_2,2,Match_44,Afghanistan,England,164/5,England won by 37 runs
+Match_45_Innings_1,1,Match_45,Bangladesh,England,153/8,England won by 8 wickets (11 balls remaining)
+Match_45_Innings_2,2,Match_45,England,Bangladesh,155/2,England won by 8 wickets (11 balls remaining)
+Match_46_Innings_1,1,Match_46,Bangladesh,Afghanistan,200/0,Bangladesh won by 8 runs
+Match_46_Innings_2,2,Match_46,Afghanistan,Bangladesh,192/8,Bangladesh won by 8 runs
+Match_47_Innings_1,1,Match_47,Australia,Pakistan,161/1,Pakistan won by 1 wickets (16 balls remaining)
+Match_47_Innings_2,2,Match_47,Pakistan,Australia,164/9,Pakistan won by 1 wickets (16 balls remaining)
+Match_48_Innings_1,1,Match_48,Pakistan,New Zealand,129/8,Pakistan won by 27 runs
+Match_48_Innings_2,2,Match_48,New Zealand,Pakistan,102/5,Pakistan won by 27 runs
+Match_49_Innings_1,1,Match_49,South Africa,Pakistan,192/6,Pakistan won by 6 wickets (6 balls remaining)
+Match_49_Innings_2,2,Match_49,Pakistan,South Africa,193/4,Pakistan won by 6 wickets (6 balls remaining)
+Match_50_Innings_1,1,Match_50,Australia,New Zealand,166/10,Australia won by 39 runs
+Match_50_Innings_2,2,Match_50,New Zealand,Australia,127/4,Australia won by 39 runs
+Match_51_Innings_1,1,Match_51,South Africa,Australia,207/10,Australia won by 5 wickets (18 balls remaining)
+Match_51_Innings_2,2,Match_51,Australia,South Africa,209/5,Australia won by 5 wickets (18 balls remaining)
+Match_52_Innings_1,1,Match_52,South Africa,New Zealand,211/9,South Africa won by 38 runs
+Match_52_Innings_2,2,Match_52,New Zealand,South Africa,173/1,South Africa won by 38 runs
+Match_53_Innings_1,1,Match_53,Australia,India,136/9,Australia won by 31 runs
+Match_53_Innings_2,2,Match_53,India,Australia,105/6,Australia won by 31 runs
+Match_54_Innings_1,1,Match_54,England,Pakistan,178/10,Pakistan won by 4 wickets (4 balls remaining)
+Match_54_Innings_2,2,Match_54,Pakistan,England,184/6,Pakistan won by 4 wickets (4 balls remaining)
+Match_55_Innings_1,1,Match_55,Australia,Pakistan,143/5,Pakistan won by 4 wickets (5 balls remaining)
+Match_55_Innings_2,2,Match_55,Pakistan,Australia,149/6,Pakistan won by 4 wickets (5 balls remaining)

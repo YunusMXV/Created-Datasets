@@ -1,0 +1,36 @@
+Name,Description,Department Head,Administrative Email Address,Administrative Phone Number
+Department of Computer Science,Focuses on computing and information technology.,Dr. Alan Turing,cs@university.ac.uk,123456789
+Department of Mathematics,Specializes in pure and applied mathematics.,Dr. Ada Lovelace,math@university.ac.uk,123456790
+Department of Physics,"Studies matter, energy, and the laws of nature.",Dr. Isaac Newton,physics@university.ac.uk,123456791
+Department of Chemistry,"Investigates the composition, structure, and properties of matter.",Dr. Marie Curie,chemistry@university.ac.uk,123456792
+Department of Biology,Explores the science of life and living organisms.,Dr. Charles Darwin,biology@university.ac.uk,123456793
+Department of English Literature,Focuses on English language and literary studies.,Dr. William Shakespeare,english@university.ac.uk,123456794
+Department of History,Examines past events and their impact on the present.,Dr. Mary Beard,history@university.ac.uk,123456795
+Department of Geography,"Studies the Earth's landscapes, environments, and places.",Dr. David Livingstone,geography@university.ac.uk,123456796
+Department of Economics,"Analyzes the production, distribution, and consumption of goods and services.",Dr. John Maynard Keynes,economics@university.ac.uk,123456797
+Department of Political Science,"Investigates government systems, political activity, and behavior.",Dr. Thomas Hobbes,politics@university.ac.uk,123456798
+Department of Sociology,"Studies the development, structure, and functioning of human society.",Dr. Emile Durkheim,sociology@university.ac.uk,123456799
+Department of Psychology,Explores the mind and behavior.,Dr. Sigmund Freud,psychology@university.ac.uk,123456700
+Department of Philosophy,"Examines fundamental questions about existence,  knowledge, and ethics.",Dr. Immanuel Kant,philosophy@university.ac.uk,123456701
+Department of Law,"Studies legal systems, principles, and practices.",Dr. Ruth Bader Ginsburg,law@university.ac.uk,123456702
+Department of Medicine,Focuses on the science and practice of medicine.,Dr. Hippocrates Hercule,medicine@university.ac.uk,123456703
+Department of Dentistry,Studies oral health and dental practices.,Dr. Pierre Fauchard,dentistry@university.ac.uk,123456704
+Department of Nursing,Focuses on the care of individuals and communities.,Dr. Florence Nightingale,nursing@university.ac.uk,123456705
+Department of Pharmacy,Studies the preparation and dispensing of medicinal drugs.,Dr. William Procter,pharmacy@university.ac.uk,123456706
+Department of Veterinary Medicine,Focuses on animal health and veterinary practices.,Dr. James Herriot,veterinary@university.ac.uk,123456707
+Department of Engineering,Studies the application of science and mathematics to solve problems.,Dr. Nikola Tesla,engineering@university.ac.uk,123456708
+Department of Mechanical Engineering,Focuses on the design and manufacture of mechanical systems.,Dr. Henry Ford,mech.eng@university.ac.uk,123456709
+Department of Electrical Engineering,Studies the application of electricity and electronics.,Dr. Alexander Graham Bell,elec.eng@university.ac.uk,123456710
+Department of Civil Engineering,Focuses on the design and construction of infrastructure.,Dr. Isambard Kingdom Brunel,civil.eng@university.ac.uk,123456711
+Department of Chemical Engineering,Studies the transformation of raw materials into useful products.,Dr. George E. Davis,chem.eng@university.ac.uk,123456712
+Department of Aerospace Engineering,Focuses on the development of aircraft and spacecraft.,Dr. Wernher von Braun,aero.eng@university.ac.uk,123456713
+Department of Environmental Science,Studies the environment and solutions to environmental problems.,Dr. Rachel Carson,env.science@university.ac.uk,123456714
+Department of Marine Biology,Focuses on marine organisms and ecosystems.,Dr. Sylvia Earle,marine.bio@university.ac.uk,123456715
+Department of Astronomy,Studies celestial objects and the universe.,Dr. Carl Sagan,astronomy@university.ac.uk,123456716
+Department of Anthropology,"Examines human societies, cultures, and their development.",Dr. Margaret Mead,anthropology@university.ac.uk,123456717
+Department of Archaeology,Studies human history through excavation and analysis of artifacts.,Dr. Howard Carter,archaeology@university.ac.uk,123456718
+Department of Linguistics,"Investigates language structure, meaning, and context.",Dr. Noam Chomsky,linguistics@university.ac.uk,123456719
+Department of Classics,Studies ancient Greek and Roman civilizations.,Dr. Edith Hall,classics@university.ac.uk,123456720
+Department of Art History,Examines the history and development of visual arts.,Dr. E.H. Gombrich,arthistory@university.ac.uk,123456721
+Department of Music,"Focuses on music theory, history, and performance.",Dr. Ludwig van Beethoven,music@university.ac.uk,123456722
+Department of Drama and Theatre,"Studies drama, theatre, and performance arts.",Dr. William Shakespeare,drama@university.ac.uk,123456723

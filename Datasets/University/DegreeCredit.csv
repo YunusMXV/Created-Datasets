@@ -1,0 +1,421 @@
+Name,Year,Degree,Credits Required
+BSc Computer Science_Year_1,1,BSc Computer Science,33
+BSc Computer Science_Year_2,2,BSc Computer Science,35
+BSc Computer Science_Year_3,3,BSc Computer Science,32
+BSc Computer Science_Year_4,4,BSc Computer Science,35
+MSc Computer Science_Year_1,1,MSc Computer Science,37
+MSc Computer Science_Year_2,2,MSc Computer Science,32
+MSc Computer Science_Year_3,3,MSc Computer Science,35
+MSc Computer Science_Year_4,4,MSc Computer Science,34
+PhD Computer Science_Year_1,1,PhD Computer Science,35
+PhD Computer Science_Year_2,2,PhD Computer Science,36
+PhD Computer Science_Year_3,3,PhD Computer Science,35
+PhD Computer Science_Year_4,4,PhD Computer Science,37
+BSc Mathematics_Year_1,1,BSc Mathematics,35
+BSc Mathematics_Year_2,2,BSc Mathematics,35
+BSc Mathematics_Year_3,3,BSc Mathematics,33
+BSc Mathematics_Year_4,4,BSc Mathematics,35
+MSc Mathematics_Year_1,1,MSc Mathematics,37
+MSc Mathematics_Year_2,2,MSc Mathematics,31
+MSc Mathematics_Year_3,3,MSc Mathematics,35
+MSc Mathematics_Year_4,4,MSc Mathematics,36
+PhD Mathematics_Year_1,1,PhD Mathematics,32
+PhD Mathematics_Year_2,2,PhD Mathematics,35
+PhD Mathematics_Year_3,3,PhD Mathematics,35
+PhD Mathematics_Year_4,4,PhD Mathematics,35
+BSc Physics_Year_1,1,BSc Physics,33
+BSc Physics_Year_2,2,BSc Physics,36
+BSc Physics_Year_3,3,BSc Physics,32
+BSc Physics_Year_4,4,BSc Physics,35
+MSc Physics_Year_1,1,MSc Physics,36
+MSc Physics_Year_2,2,MSc Physics,35
+MSc Physics_Year_3,3,MSc Physics,37
+MSc Physics_Year_4,4,MSc Physics,36
+PhD Physics_Year_1,1,PhD Physics,35
+PhD Physics_Year_2,2,PhD Physics,34
+PhD Physics_Year_3,3,PhD Physics,37
+PhD Physics_Year_4,4,PhD Physics,35
+BSc Chemistry_Year_1,1,BSc Chemistry,35
+BSc Chemistry_Year_2,2,BSc Chemistry,33
+BSc Chemistry_Year_3,3,BSc Chemistry,38
+BSc Chemistry_Year_4,4,BSc Chemistry,36
+MSc Chemistry_Year_1,1,MSc Chemistry,38
+MSc Chemistry_Year_2,2,MSc Chemistry,34
+MSc Chemistry_Year_3,3,MSc Chemistry,34
+MSc Chemistry_Year_4,4,MSc Chemistry,37
+PhD Chemistry_Year_1,1,PhD Chemistry,34
+PhD Chemistry_Year_2,2,PhD Chemistry,35
+PhD Chemistry_Year_3,3,PhD Chemistry,33
+PhD Chemistry_Year_4,4,PhD Chemistry,35
+BSc Biology_Year_1,1,BSc Biology,35
+BSc Biology_Year_2,2,BSc Biology,35
+BSc Biology_Year_3,3,BSc Biology,35
+BSc Biology_Year_4,4,BSc Biology,40
+MSc Biology_Year_1,1,MSc Biology,36
+MSc Biology_Year_2,2,MSc Biology,35
+MSc Biology_Year_3,3,MSc Biology,38
+MSc Biology_Year_4,4,MSc Biology,34
+PhD Biology_Year_1,1,PhD Biology,36
+PhD Biology_Year_2,2,PhD Biology,33
+PhD Biology_Year_3,3,PhD Biology,35
+PhD Biology_Year_4,4,PhD Biology,38
+BA English Literature_Year_1,1,BA English Literature,36
+BA English Literature_Year_2,2,BA English Literature,36
+BA English Literature_Year_3,3,BA English Literature,37
+BA English Literature_Year_4,4,BA English Literature,33
+MA English Literature_Year_1,1,MA English Literature,36
+MA English Literature_Year_2,2,MA English Literature,36
+MA English Literature_Year_3,3,MA English Literature,34
+MA English Literature_Year_4,4,MA English Literature,35
+PhD English Literature_Year_1,1,PhD English Literature,35
+PhD English Literature_Year_2,2,PhD English Literature,35
+PhD English Literature_Year_3,3,PhD English Literature,31
+PhD English Literature_Year_4,4,PhD English Literature,33
+BA History_Year_1,1,BA History,33
+BA History_Year_2,2,BA History,38
+BA History_Year_3,3,BA History,36
+BA History_Year_4,4,BA History,34
+MA History_Year_1,1,MA History,36
+MA History_Year_2,2,MA History,37
+MA History_Year_3,3,MA History,33
+MA History_Year_4,4,MA History,35
+PhD History_Year_1,1,PhD History,35
+PhD History_Year_2,2,PhD History,36
+PhD History_Year_3,3,PhD History,33
+PhD History_Year_4,4,PhD History,34
+BSc Geography_Year_1,1,BSc Geography,34
+BSc Geography_Year_2,2,BSc Geography,35
+BSc Geography_Year_3,3,BSc Geography,36
+BSc Geography_Year_4,4,BSc Geography,35
+MSc Geography_Year_1,1,MSc Geography,32
+MSc Geography_Year_2,2,MSc Geography,35
+MSc Geography_Year_3,3,MSc Geography,33
+MSc Geography_Year_4,4,MSc Geography,38
+PhD Geography_Year_1,1,PhD Geography,34
+PhD Geography_Year_2,2,PhD Geography,37
+PhD Geography_Year_3,3,PhD Geography,35
+PhD Geography_Year_4,4,PhD Geography,33
+BSc Economics_Year_1,1,BSc Economics,34
+BSc Economics_Year_2,2,BSc Economics,36
+BSc Economics_Year_3,3,BSc Economics,35
+BSc Economics_Year_4,4,BSc Economics,34
+MSc Economics_Year_1,1,MSc Economics,33
+MSc Economics_Year_2,2,MSc Economics,35
+MSc Economics_Year_3,3,MSc Economics,31
+MSc Economics_Year_4,4,MSc Economics,35
+PhD Economics_Year_1,1,PhD Economics,35
+PhD Economics_Year_2,2,PhD Economics,34
+PhD Economics_Year_3,3,PhD Economics,33
+PhD Economics_Year_4,4,PhD Economics,35
+BA Political Science_Year_1,1,BA Political Science,34
+BA Political Science_Year_2,2,BA Political Science,34
+BA Political Science_Year_3,3,BA Political Science,38
+BA Political Science_Year_4,4,BA Political Science,36
+MA Political Science_Year_1,1,MA Political Science,34
+MA Political Science_Year_2,2,MA Political Science,32
+MA Political Science_Year_3,3,MA Political Science,35
+MA Political Science_Year_4,4,MA Political Science,34
+PhD Political Science_Year_1,1,PhD Political Science,33
+PhD Political Science_Year_2,2,PhD Political Science,32
+PhD Political Science_Year_3,3,PhD Political Science,33
+PhD Political Science_Year_4,4,PhD Political Science,36
+BSc Sociology_Year_1,1,BSc Sociology,36
+BSc Sociology_Year_2,2,BSc Sociology,34
+BSc Sociology_Year_3,3,BSc Sociology,37
+BSc Sociology_Year_4,4,BSc Sociology,35
+MSc Sociology_Year_1,1,MSc Sociology,37
+MSc Sociology_Year_2,2,MSc Sociology,37
+MSc Sociology_Year_3,3,MSc Sociology,36
+MSc Sociology_Year_4,4,MSc Sociology,35
+PhD Sociology_Year_1,1,PhD Sociology,36
+PhD Sociology_Year_2,2,PhD Sociology,36
+PhD Sociology_Year_3,3,PhD Sociology,37
+PhD Sociology_Year_4,4,PhD Sociology,32
+BSc Psychology_Year_1,1,BSc Psychology,38
+BSc Psychology_Year_2,2,BSc Psychology,33
+BSc Psychology_Year_3,3,BSc Psychology,33
+BSc Psychology_Year_4,4,BSc Psychology,35
+MSc Psychology_Year_1,1,MSc Psychology,33
+MSc Psychology_Year_2,2,MSc Psychology,36
+MSc Psychology_Year_3,3,MSc Psychology,35
+MSc Psychology_Year_4,4,MSc Psychology,33
+PhD Psychology_Year_1,1,PhD Psychology,33
+PhD Psychology_Year_2,2,PhD Psychology,34
+PhD Psychology_Year_3,3,PhD Psychology,33
+PhD Psychology_Year_4,4,PhD Psychology,34
+BA Philosophy_Year_1,1,BA Philosophy,35
+BA Philosophy_Year_2,2,BA Philosophy,33
+BA Philosophy_Year_3,3,BA Philosophy,34
+BA Philosophy_Year_4,4,BA Philosophy,35
+MA Philosophy_Year_1,1,MA Philosophy,31
+MA Philosophy_Year_2,2,MA Philosophy,34
+MA Philosophy_Year_3,3,MA Philosophy,35
+MA Philosophy_Year_4,4,MA Philosophy,34
+PhD Philosophy_Year_1,1,PhD Philosophy,35
+PhD Philosophy_Year_2,2,PhD Philosophy,34
+PhD Philosophy_Year_3,3,PhD Philosophy,37
+PhD Philosophy_Year_4,4,PhD Philosophy,36
+LLB Law_Year_1,1,LLB Law,34
+LLB Law_Year_2,2,LLB Law,34
+LLB Law_Year_3,3,LLB Law,36
+LLB Law_Year_4,4,LLB Law,35
+LLM Law_Year_1,1,LLM Law,36
+LLM Law_Year_2,2,LLM Law,35
+LLM Law_Year_3,3,LLM Law,33
+LLM Law_Year_4,4,LLM Law,36
+PhD Law_Year_1,1,PhD Law,36
+PhD Law_Year_2,2,PhD Law,37
+PhD Law_Year_3,3,PhD Law,33
+PhD Law_Year_4,4,PhD Law,34
+MBBS Medicine_Year_1,1,MBBS Medicine,33
+MBBS Medicine_Year_2,2,MBBS Medicine,34
+MBBS Medicine_Year_3,3,MBBS Medicine,35
+MBBS Medicine_Year_4,4,MBBS Medicine,36
+MD Medicine_Year_1,1,MD Medicine,35
+MD Medicine_Year_2,2,MD Medicine,33
+MD Medicine_Year_3,3,MD Medicine,34
+MD Medicine_Year_4,4,MD Medicine,35
+PhD Medicine_Year_1,1,PhD Medicine,34
+PhD Medicine_Year_2,2,PhD Medicine,36
+PhD Medicine_Year_3,3,PhD Medicine,35
+PhD Medicine_Year_4,4,PhD Medicine,36
+BDS Dentistry_Year_1,1,BDS Dentistry,36
+BDS Dentistry_Year_2,2,BDS Dentistry,36
+BDS Dentistry_Year_3,3,BDS Dentistry,37
+BDS Dentistry_Year_4,4,BDS Dentistry,37
+MDS Dentistry_Year_1,1,MDS Dentistry,35
+MDS Dentistry_Year_2,2,MDS Dentistry,34
+MDS Dentistry_Year_3,3,MDS Dentistry,35
+MDS Dentistry_Year_4,4,MDS Dentistry,34
+PhD Dentistry_Year_1,1,PhD Dentistry,37
+PhD Dentistry_Year_2,2,PhD Dentistry,34
+PhD Dentistry_Year_3,3,PhD Dentistry,38
+PhD Dentistry_Year_4,4,PhD Dentistry,36
+BSc Nursing_Year_1,1,BSc Nursing,32
+BSc Nursing_Year_2,2,BSc Nursing,34
+BSc Nursing_Year_3,3,BSc Nursing,35
+BSc Nursing_Year_4,4,BSc Nursing,35
+MSc Nursing_Year_1,1,MSc Nursing,35
+MSc Nursing_Year_2,2,MSc Nursing,36
+MSc Nursing_Year_3,3,MSc Nursing,36
+MSc Nursing_Year_4,4,MSc Nursing,35
+PhD Nursing_Year_1,1,PhD Nursing,35
+PhD Nursing_Year_2,2,PhD Nursing,34
+PhD Nursing_Year_3,3,PhD Nursing,34
+PhD Nursing_Year_4,4,PhD Nursing,36
+BPharm Pharmacy_Year_1,1,BPharm Pharmacy,34
+BPharm Pharmacy_Year_2,2,BPharm Pharmacy,34
+BPharm Pharmacy_Year_3,3,BPharm Pharmacy,34
+BPharm Pharmacy_Year_4,4,BPharm Pharmacy,33
+MPharm Pharmacy_Year_1,1,MPharm Pharmacy,39
+MPharm Pharmacy_Year_2,2,MPharm Pharmacy,33
+MPharm Pharmacy_Year_3,3,MPharm Pharmacy,37
+MPharm Pharmacy_Year_4,4,MPharm Pharmacy,37
+PhD Pharmacy_Year_1,1,PhD Pharmacy,35
+PhD Pharmacy_Year_2,2,PhD Pharmacy,33
+PhD Pharmacy_Year_3,3,PhD Pharmacy,35
+PhD Pharmacy_Year_4,4,PhD Pharmacy,35
+BVSc Veterinary Medicine_Year_1,1,BVSc Veterinary Medicine,37
+BVSc Veterinary Medicine_Year_2,2,BVSc Veterinary Medicine,33
+BVSc Veterinary Medicine_Year_3,3,BVSc Veterinary Medicine,34
+BVSc Veterinary Medicine_Year_4,4,BVSc Veterinary Medicine,32
+MVSc Veterinary Medicine_Year_1,1,MVSc Veterinary Medicine,34
+MVSc Veterinary Medicine_Year_2,2,MVSc Veterinary Medicine,37
+MVSc Veterinary Medicine_Year_3,3,MVSc Veterinary Medicine,33
+MVSc Veterinary Medicine_Year_4,4,MVSc Veterinary Medicine,34
+PhD Veterinary Medicine_Year_1,1,PhD Veterinary Medicine,34
+PhD Veterinary Medicine_Year_2,2,PhD Veterinary Medicine,36
+PhD Veterinary Medicine_Year_3,3,PhD Veterinary Medicine,34
+PhD Veterinary Medicine_Year_4,4,PhD Veterinary Medicine,34
+BEng Engineering_Year_1,1,BEng Engineering,35
+BEng Engineering_Year_2,2,BEng Engineering,33
+BEng Engineering_Year_3,3,BEng Engineering,33
+BEng Engineering_Year_4,4,BEng Engineering,33
+MEng Engineering_Year_1,1,MEng Engineering,35
+MEng Engineering_Year_2,2,MEng Engineering,32
+MEng Engineering_Year_3,3,MEng Engineering,33
+MEng Engineering_Year_4,4,MEng Engineering,37
+PhD Engineering_Year_1,1,PhD Engineering,34
+PhD Engineering_Year_2,2,PhD Engineering,35
+PhD Engineering_Year_3,3,PhD Engineering,34
+PhD Engineering_Year_4,4,PhD Engineering,38
+BEng Mechanical Engineering_Year_1,1,BEng Mechanical Engineering,36
+BEng Mechanical Engineering_Year_2,2,BEng Mechanical Engineering,37
+BEng Mechanical Engineering_Year_3,3,BEng Mechanical Engineering,33
+BEng Mechanical Engineering_Year_4,4,BEng Mechanical Engineering,36
+MEng Mechanical Engineering_Year_1,1,MEng Mechanical Engineering,35
+MEng Mechanical Engineering_Year_2,2,MEng Mechanical Engineering,36
+MEng Mechanical Engineering_Year_3,3,MEng Mechanical Engineering,34
+MEng Mechanical Engineering_Year_4,4,MEng Mechanical Engineering,37
+PhD Mechanical Engineering_Year_1,1,PhD Mechanical Engineering,33
+PhD Mechanical Engineering_Year_2,2,PhD Mechanical Engineering,34
+PhD Mechanical Engineering_Year_3,3,PhD Mechanical Engineering,33
+PhD Mechanical Engineering_Year_4,4,PhD Mechanical Engineering,34
+BEng Electrical Engineering_Year_1,1,BEng Electrical Engineering,34
+BEng Electrical Engineering_Year_2,2,BEng Electrical Engineering,34
+BEng Electrical Engineering_Year_3,3,BEng Electrical Engineering,35
+BEng Electrical Engineering_Year_4,4,BEng Electrical Engineering,33
+MEng Electrical Engineering_Year_1,1,MEng Electrical Engineering,35
+MEng Electrical Engineering_Year_2,2,MEng Electrical Engineering,38
+MEng Electrical Engineering_Year_3,3,MEng Electrical Engineering,35
+MEng Electrical Engineering_Year_4,4,MEng Electrical Engineering,34
+PhD Electrical Engineering_Year_1,1,PhD Electrical Engineering,32
+PhD Electrical Engineering_Year_2,2,PhD Electrical Engineering,33
+PhD Electrical Engineering_Year_3,3,PhD Electrical Engineering,33
+PhD Electrical Engineering_Year_4,4,PhD Electrical Engineering,34
+BEng Civil Engineering_Year_1,1,BEng Civil Engineering,34
+BEng Civil Engineering_Year_2,2,BEng Civil Engineering,35
+BEng Civil Engineering_Year_3,3,BEng Civil Engineering,36
+BEng Civil Engineering_Year_4,4,BEng Civil Engineering,35
+MEng Civil Engineering_Year_1,1,MEng Civil Engineering,36
+MEng Civil Engineering_Year_2,2,MEng Civil Engineering,35
+MEng Civil Engineering_Year_3,3,MEng Civil Engineering,36
+MEng Civil Engineering_Year_4,4,MEng Civil Engineering,33
+PhD Civil Engineering_Year_1,1,PhD Civil Engineering,35
+PhD Civil Engineering_Year_2,2,PhD Civil Engineering,34
+PhD Civil Engineering_Year_3,3,PhD Civil Engineering,31
+PhD Civil Engineering_Year_4,4,PhD Civil Engineering,34
+BEng Chemical Engineering_Year_1,1,BEng Chemical Engineering,37
+BEng Chemical Engineering_Year_2,2,BEng Chemical Engineering,38
+BEng Chemical Engineering_Year_3,3,BEng Chemical Engineering,35
+BEng Chemical Engineering_Year_4,4,BEng Chemical Engineering,32
+MEng Chemical Engineering_Year_1,1,MEng Chemical Engineering,31
+MEng Chemical Engineering_Year_2,2,MEng Chemical Engineering,39
+MEng Chemical Engineering_Year_3,3,MEng Chemical Engineering,33
+MEng Chemical Engineering_Year_4,4,MEng Chemical Engineering,33
+PhD Chemical Engineering_Year_1,1,PhD Chemical Engineering,37
+PhD Chemical Engineering_Year_2,2,PhD Chemical Engineering,35
+PhD Chemical Engineering_Year_3,3,PhD Chemical Engineering,36
+PhD Chemical Engineering_Year_4,4,PhD Chemical Engineering,36
+BEng Aerospace Engineering_Year_1,1,BEng Aerospace Engineering,36
+BEng Aerospace Engineering_Year_2,2,BEng Aerospace Engineering,36
+BEng Aerospace Engineering_Year_3,3,BEng Aerospace Engineering,38
+BEng Aerospace Engineering_Year_4,4,BEng Aerospace Engineering,37
+MEng Aerospace Engineering_Year_1,1,MEng Aerospace Engineering,34
+MEng Aerospace Engineering_Year_2,2,MEng Aerospace Engineering,34
+MEng Aerospace Engineering_Year_3,3,MEng Aerospace Engineering,35
+MEng Aerospace Engineering_Year_4,4,MEng Aerospace Engineering,34
+PhD Aerospace Engineering_Year_1,1,PhD Aerospace Engineering,35
+PhD Aerospace Engineering_Year_2,2,PhD Aerospace Engineering,36
+PhD Aerospace Engineering_Year_3,3,PhD Aerospace Engineering,35
+PhD Aerospace Engineering_Year_4,4,PhD Aerospace Engineering,33
+BSc Environmental Science_Year_1,1,BSc Environmental Science,36
+BSc Environmental Science_Year_2,2,BSc Environmental Science,34
+BSc Environmental Science_Year_3,3,BSc Environmental Science,36
+BSc Environmental Science_Year_4,4,BSc Environmental Science,35
+MSc Environmental Science_Year_1,1,MSc Environmental Science,35
+MSc Environmental Science_Year_2,2,MSc Environmental Science,34
+MSc Environmental Science_Year_3,3,MSc Environmental Science,34
+MSc Environmental Science_Year_4,4,MSc Environmental Science,37
+PhD Environmental Science_Year_1,1,PhD Environmental Science,37
+PhD Environmental Science_Year_2,2,PhD Environmental Science,36
+PhD Environmental Science_Year_3,3,PhD Environmental Science,35
+PhD Environmental Science_Year_4,4,PhD Environmental Science,36
+BSc Marine Biology_Year_1,1,BSc Marine Biology,35
+BSc Marine Biology_Year_2,2,BSc Marine Biology,34
+BSc Marine Biology_Year_3,3,BSc Marine Biology,36
+BSc Marine Biology_Year_4,4,BSc Marine Biology,36
+MSc Marine Biology_Year_1,1,MSc Marine Biology,35
+MSc Marine Biology_Year_2,2,MSc Marine Biology,35
+MSc Marine Biology_Year_3,3,MSc Marine Biology,36
+MSc Marine Biology_Year_4,4,MSc Marine Biology,36
+PhD Marine Biology_Year_1,1,PhD Marine Biology,36
+PhD Marine Biology_Year_2,2,PhD Marine Biology,38
+PhD Marine Biology_Year_3,3,PhD Marine Biology,36
+PhD Marine Biology_Year_4,4,PhD Marine Biology,37
+BSc Astronomy_Year_1,1,BSc Astronomy,37
+BSc Astronomy_Year_2,2,BSc Astronomy,35
+BSc Astronomy_Year_3,3,BSc Astronomy,34
+BSc Astronomy_Year_4,4,BSc Astronomy,35
+MSc Astronomy_Year_1,1,MSc Astronomy,37
+MSc Astronomy_Year_2,2,MSc Astronomy,37
+MSc Astronomy_Year_3,3,MSc Astronomy,35
+MSc Astronomy_Year_4,4,MSc Astronomy,34
+PhD Astronomy_Year_1,1,PhD Astronomy,36
+PhD Astronomy_Year_2,2,PhD Astronomy,34
+PhD Astronomy_Year_3,3,PhD Astronomy,36
+PhD Astronomy_Year_4,4,PhD Astronomy,35
+BA Anthropology_Year_1,1,BA Anthropology,37
+BA Anthropology_Year_2,2,BA Anthropology,34
+BA Anthropology_Year_3,3,BA Anthropology,35
+BA Anthropology_Year_4,4,BA Anthropology,38
+MA Anthropology_Year_1,1,MA Anthropology,34
+MA Anthropology_Year_2,2,MA Anthropology,36
+MA Anthropology_Year_3,3,MA Anthropology,34
+MA Anthropology_Year_4,4,MA Anthropology,38
+PhD Anthropology_Year_1,1,PhD Anthropology,37
+PhD Anthropology_Year_2,2,PhD Anthropology,34
+PhD Anthropology_Year_3,3,PhD Anthropology,37
+PhD Anthropology_Year_4,4,PhD Anthropology,32
+BA Archaeology_Year_1,1,BA Archaeology,36
+BA Archaeology_Year_2,2,BA Archaeology,34
+BA Archaeology_Year_3,3,BA Archaeology,36
+BA Archaeology_Year_4,4,BA Archaeology,37
+MA Archaeology_Year_1,1,MA Archaeology,35
+MA Archaeology_Year_2,2,MA Archaeology,36
+MA Archaeology_Year_3,3,MA Archaeology,34
+MA Archaeology_Year_4,4,MA Archaeology,33
+PhD Archaeology_Year_1,1,PhD Archaeology,36
+PhD Archaeology_Year_2,2,PhD Archaeology,35
+PhD Archaeology_Year_3,3,PhD Archaeology,34
+PhD Archaeology_Year_4,4,PhD Archaeology,33
+BA Linguistics_Year_1,1,BA Linguistics,36
+BA Linguistics_Year_2,2,BA Linguistics,37
+BA Linguistics_Year_3,3,BA Linguistics,36
+BA Linguistics_Year_4,4,BA Linguistics,37
+MA Linguistics_Year_1,1,MA Linguistics,35
+MA Linguistics_Year_2,2,MA Linguistics,34
+MA Linguistics_Year_3,3,MA Linguistics,36
+MA Linguistics_Year_4,4,MA Linguistics,35
+PhD Linguistics_Year_1,1,PhD Linguistics,36
+PhD Linguistics_Year_2,2,PhD Linguistics,36
+PhD Linguistics_Year_3,3,PhD Linguistics,35
+PhD Linguistics_Year_4,4,PhD Linguistics,37
+BA Classics_Year_1,1,BA Classics,35
+BA Classics_Year_2,2,BA Classics,35
+BA Classics_Year_3,3,BA Classics,36
+BA Classics_Year_4,4,BA Classics,37
+MA Classics_Year_1,1,MA Classics,36
+MA Classics_Year_2,2,MA Classics,35
+MA Classics_Year_3,3,MA Classics,35
+MA Classics_Year_4,4,MA Classics,33
+PhD Classics_Year_1,1,PhD Classics,33
+PhD Classics_Year_2,2,PhD Classics,32
+PhD Classics_Year_3,3,PhD Classics,34
+PhD Classics_Year_4,4,PhD Classics,33
+BA Art History_Year_1,1,BA Art History,34
+BA Art History_Year_2,2,BA Art History,34
+BA Art History_Year_3,3,BA Art History,32
+BA Art History_Year_4,4,BA Art History,37
+MA Art History_Year_1,1,MA Art History,34
+MA Art History_Year_2,2,MA Art History,37
+MA Art History_Year_3,3,MA Art History,33
+MA Art History_Year_4,4,MA Art History,36
+PhD Art History_Year_1,1,PhD Art History,34
+PhD Art History_Year_2,2,PhD Art History,32
+PhD Art History_Year_3,3,PhD Art History,36
+PhD Art History_Year_4,4,PhD Art History,34
+BA Music_Year_1,1,BA Music,32
+BA Music_Year_2,2,BA Music,35
+BA Music_Year_3,3,BA Music,32
+BA Music_Year_4,4,BA Music,37
+MA Music_Year_1,1,MA Music,35
+MA Music_Year_2,2,MA Music,38
+MA Music_Year_3,3,MA Music,36
+MA Music_Year_4,4,MA Music,36
+PhD Music_Year_1,1,PhD Music,35
+PhD Music_Year_2,2,PhD Music,31
+PhD Music_Year_3,3,PhD Music,34
+PhD Music_Year_4,4,PhD Music,34
+BA Drama and Theatre_Year_1,1,BA Drama and Theatre,36
+BA Drama and Theatre_Year_2,2,BA Drama and Theatre,35
+BA Drama and Theatre_Year_3,3,BA Drama and Theatre,32
+BA Drama and Theatre_Year_4,4,BA Drama and Theatre,37
+MA Drama and Theatre_Year_1,1,MA Drama and Theatre,37
+MA Drama and Theatre_Year_2,2,MA Drama and Theatre,35
+MA Drama and Theatre_Year_3,3,MA Drama and Theatre,35
+MA Drama and Theatre_Year_4,4,MA Drama and Theatre,36
+PhD Drama and Theatre_Year_1,1,PhD Drama and Theatre,33
+PhD Drama and Theatre_Year_2,2,PhD Drama and Theatre,36
+PhD Drama and Theatre_Year_3,3,PhD Drama and Theatre,35
+PhD Drama and Theatre_Year_4,4,PhD Drama and Theatre,36

@@ -1,0 +1,106 @@
+Name,Description,Department,Degree Head,Administrative Email Address,Administrative Phone Number
+BSc Computer Science,Study of computer systems and software.,Department of Computer Science,Dr. Ada Lovelace,bsc.cs@university.ac.uk,0123456789
+MSc Computer Science,Advanced study in computer science.,Department of Computer Science,Dr. Charles Babbage,msc.cs@university.ac.uk,0123456790
+PhD Computer Science,Doctoral research in computer science.,Department of Computer Science,Dr. Alan Turing,phd.cs@university.ac.uk,0123456791
+BSc Mathematics,Study of mathematical theories and applications.,Department of Mathematics,Dr. Carl Friedrich Gauss,bsc.math@university.ac.uk,0123456792
+MSc Mathematics,Advanced study in mathematics.,Department of Mathematics,Dr. Ada Lovelace,msc.math@university.ac.uk,0123456793
+PhD Mathematics,Doctoral research in mathematics.,Department of Mathematics,Dr. Isaac Newton,phd.math@university.ac.uk,0123456794
+BSc Physics,Study of the fundamental principles of the universe.,Department of Physics,Dr. Richard Feynman,bsc.physics@university.ac.uk,0123456795
+MSc Physics,Advanced study in physics.,Department of Physics,Dr. Marie Curie,msc.physics@university.ac.uk,0123456796
+PhD Physics,Doctoral research in physics.,Department of Physics,Dr. Albert Einstein,phd.physics@university.ac.uk,0123456797
+BSc Chemistry,Study of substances and their interactions.,Department of Chemistry,Dr. Robert Boyle,bsc.chemistry@university.ac.uk,0123456798
+MSc Chemistry,Advanced study in chemistry.,Department of Chemistry,Dr. Dmitri Mendeleev,msc.chemistry@university.ac.uk,0123456799
+PhD Chemistry,Doctoral research in chemistry.,Department of Chemistry,Dr. Linus Pauling,phd.chemistry@university.ac.uk,0123456700
+BSc Biology,Study of living organisms.,Department of Biology,Dr. Jane Goodall,bsc.biology@university.ac.uk,0123456701
+MSc Biology,Advanced study in biology.,Department of Biology,Dr. Charles Darwin,msc.biology@university.ac.uk,0123456702
+PhD Biology,Doctoral research in biology.,Department of Biology,Dr. Rosalind Franklin,phd.biology@university.ac.uk,0123456703
+BA English Literature,Study of English language and literature.,Department of English Literature,Dr. Samuel Johnson,ba.english@university.ac.uk,0123456704
+MA English Literature,Advanced study in English literature.,Department of English Literature,Dr. Virginia Woolf,ma.english@university.ac.uk,0123456705
+PhD English Literature,Doctoral research in English literature.,Department of English Literature,Dr. William Wordsworth,phd.english@university.ac.uk,0123456706
+BA History,Study of historical events and periods.,Department of History,Dr. Simon Schama,ba.history@university.ac.uk,0123456707
+MA History,Advanced study in history.,Department of History,Dr. Mary Beard,ma.history@university.ac.uk,0123456708
+PhD History,Doctoral research in history.,Department of History,Dr. Eric Hobsbawm,phd.history@university.ac.uk,0123456709
+BSc Geography,Study of Earth's landscapes and environments.,Department of Geography,Dr. David Livingstone,bsc.geography@university.ac.uk,0123456710
+MSc Geography,Advanced study in geography.,Department of Geography,Dr. Alfred Russel Wallace,msc.geography@university.ac.uk,0123456711
+PhD Geography,Doctoral research in geography.,Department of Geography,Dr. Ellen Semple,phd.geography@university.ac.uk,0123456712
+BSc Economics,Study of economic theories and practices.,Department of Economics,Dr. John Maynard Keynes,bsc.economics@university.ac.uk,0123456713
+MSc Economics,Advanced study in economics.,Department of Economics,Dr. Adam Smith,msc.economics@university.ac.uk,0123456714
+PhD Economics,Doctoral research in economics.,Department of Economics,Dr. Milton Friedman,phd.economics@university.ac.uk,0123456715
+BA Political Science,Study of political systems and behavior.,Department of Political Science,Dr. Niccola Machiavelli,ba.politics@university.ac.uk,0123456716
+MA Political Science,Advanced study in political science.,Department of Political Science,Dr. Thomas Hobbes,ma.politics@university.ac.uk,0123456717
+PhD Political Science,Doctoral research in political science.,Department of Political Science,Dr. Henry Kissinger,phd.politics@university.ac.uk,0123456718
+BSc Sociology,Study of societal structures and processes.,Department of Sociology,Dr. Karl Marx,bsc.sociology@university.ac.uk,0123456719
+MSc Sociology,Advanced study in sociology.,Department of Sociology,Dr. Jane Addams,msc.sociology@university.ac.uk,0123456720
+PhD Sociology,Doctoral research in sociology.,Department of Sociology,Dr. Emile Durkheim,phd.sociology@university.ac.uk,0123456721
+BSc Psychology,Study of the human mind and behavior.,Department of Psychology,Dr. Sigmund Freud,bsc.psychology@university.ac.uk,0123456722
+MSc Psychology,Advanced study in psychology.,Department of Psychology,Dr. Carl Jung,msc.psychology@university.ac.uk,0123456723
+PhD Psychology,Doctoral research in psychology.,Department of Psychology,Dr. B.F. Skinner,phd.psychology@university.ac.uk,0123456724
+BA Philosophy,Study of fundamental questions about existence.,Department of Philosophy,Dr. Plato Olympus,ba.philosophy@university.ac.uk,0123456725
+MA Philosophy,Advanced study in philosophy.,Department of Philosophy,Dr. Immanuel Kant,ma.philosophy@university.ac.uk,0123456726
+PhD Philosophy,Doctoral research in philosophy.,Department of Philosophy,Dr. Friedrich Nietzsche,phd.philosophy@university.ac.uk,0123456727
+LLB Law,Study of legal systems and principles.,Department of Law,Dr. Ruth Bader Ginsburg,llb.law@university.ac.uk,0123456728
+LLM Law,Advanced study in law.,Department of Law,Dr. Oliver Wendell Holmes,llm.law@university.ac.uk,0123456729
+PhD Law,Doctoral research in law.,Department of Law,Dr. William Blackstone,phd.law@university.ac.uk,0123456730
+MBBS Medicine,Study of medical practices and principles.,Department of Medicine,Dr. Hippocrates Hercule,mbbs.medicine@university.ac.uk,0123456731
+MD Medicine,Advanced study in medicine.,Department of Medicine,Dr. William Osler,md.medicine@university.ac.uk,0123456732
+PhD Medicine,Doctoral research in medicine.,Department of Medicine,Dr. Joseph Lister,phd.medicine@university.ac.uk,0123456733
+BDS Dentistry,Study of dental practices and oral health.,Department of Dentistry,Dr. Pierre Fauchard,bds.dentistry@university.ac.uk,0123456734
+MDS Dentistry,Advanced study in dentistry.,Department of Dentistry,Dr. Greene Vardiman Black,mds.dentistry@university.ac.uk,0123456735
+PhD Dentistry,Doctoral research in dentistry.,Department of Dentistry,Dr. Peter Drucker,phd.dentistry@university.ac.uk,0123456736
+BSc Nursing,Study of nursing practices and patient care.,Department of Nursing,Dr. Florence Nightingale,bsc.nursing@university.ac.uk,0123456737
+MSc Nursing,Advanced study in nursing.,Department of Nursing,Dr. Virginia Henderson,msc.nursing@university.ac.uk,0123456738
+PhD Nursing,Doctoral research in nursing.,Department of Nursing,Dr. Hildegard Peplau,phd.nursing@university.ac.uk,0123456739
+BPharm Pharmacy,Study of medicinal drugs and their use.,Department of Pharmacy,Dr. William Procter,bpharm.pharmacy@university.ac.uk,0123456740
+MPharm Pharmacy,Advanced study in pharmacy.,Department of Pharmacy,Dr. Edward Parrish,mpharm.pharmacy@university.ac.uk,0123456741
+PhD Pharmacy,Doctoral research in pharmacy.,Department of Pharmacy,Dr. Martin Wilbert,phd.pharmacy@university.ac.uk,0123456742
+BVSc Veterinary Medicine,Study of animal health and veterinary practices.,Department of Veterinary Medicine,Dr. James Herriot,bvsc.vet@university.ac.uk,0123456743
+MVSc Veterinary Medicine,Advanced study in veterinary medicine.,Department of Veterinary Medicine,Dr. Donald Smith,mvsc.vet@university.ac.uk,0123456744
+PhD Veterinary Medicine,Doctoral research in veterinary medicine.,Department of Veterinary Medicine,Dr. Bernard Rollin,phd.vet@university.ac.uk,0123456745
+BEng Engineering,Study of engineering principles and practices.,Department of Engineering,Dr. Nikola Tesla,beng.eng@university.ac.uk,0123456746
+MEng Engineering,Advanced study in engineering.,Department of Engineering,Dr. Elon Musk,meng.eng@university.ac.uk,0123456747
+PhD Engineering,Doctoral research in engineering.,Department of Engineering,Dr. George Stephenson,phd.eng@university.ac.uk,0123456748
+BEng Mechanical Engineering,Study of mechanical systems and their design.,Department of Mechanical Engineering,Dr. Henry Ford,beng.mech.eng@university.ac.uk,0123456749
+MEng Mechanical Engineering,Advanced study in mechanical engineering.,Department of Mechanical Engineering,Dr. James Watt,meng.mech.eng@university.ac.uk,0123456750
+PhD Mechanical Engineering,Doctoral research in mechanical engineering.,Department of Mechanical Engineering,Dr. Stephen Timoshenko,phd.mech.eng@university.ac.uk,0123456751
+BEng Electrical Engineering,Study of electrical systems and their applications.,Department of Electrical Engineering,Dr. Michael Faraday,beng.elec.eng@university.ac.uk,0123456752
+MEng Electrical Engineering,Advanced study in electrical engineering.,Department of Electrical Engineering,Dr. Nikola Tesla,meng.elec.eng@university.ac.uk,0123456753
+PhD Electrical Engineering,Doctoral research in electrical engineering.,Department of Electrical Engineering,Dr. Alexander Graham Bell,phd.elec.eng@university.ac.uk,0123456754
+BEng Civil Engineering,Study of infrastructure and construction.,Department of Civil Engineering,Dr. Isambard Kingdom Brunel,beng.civil.eng@university.ac.uk,0123456755
+MEng Civil Engineering,Advanced study in civil engineering.,Department of Civil Engineering,Dr. Gustave Eiffel,meng.civil.eng@university.ac.uk,0123456756
+PhD Civil Engineering,Doctoral research in civil engineering.,Department of Civil Engineering,Dr. Karl Terzaghi,phd.civil.eng@university.ac.uk,0123456757
+BEng Chemical Engineering,Study of chemical processes and systems.,Department of Chemical Engineering,Dr. George E. Davis,beng.chem.eng@university.ac.uk,0123456758
+MEng Chemical Engineering,Advanced study in chemical engineering.,Department of Chemical Engineering,Dr. Carl Bosch,meng.chem.eng@university.ac.uk,0123456759
+PhD Chemical Engineering,Doctoral research in chemical engineering.,Department of Chemical Engineering,Dr. Warren K. Lewis,phd.chem.eng@university.ac.uk,0123456760
+BEng Aerospace Engineering,Study of aircraft and spacecraft design.,Department of Aerospace Engineering,Dr. Wernher von Braun,beng.aero.eng@university.ac.uk,0123456761
+MEng Aerospace Engineering,Advanced study in aerospace engineering.,Department of Aerospace Engineering,Dr. Robert Goddard,meng.aero.eng@university.ac.uk,0123456762
+PhD Aerospace Engineering,Doctoral research in aerospace engineering.,Department of Aerospace Engineering,Dr. Theodore von Karman,phd.aero.eng@university.ac.uk,0123456763
+BSc Environmental Science,Study of environmental issues and solutions.,Department of Environmental Science,Dr. Rachel Carson,bsc.env.science@university.ac.uk,0123456764
+MSc Environmental Science,Advanced study in environmental science.,Department of Environmental Science,Dr. Elinor Ostrom,msc.env.science@university.ac.uk,0123456765
+PhD Environmental Science,Doctoral research in environmental science.,Department of Environmental Science,Dr. Gro Harlem Brundtland,phd.env.science@university.ac.uk,0123456766
+BSc Marine Biology,Study of marine organisms and ecosystems.,Department of Marine Biology,Dr. Sylvia Earle,bsc.marine.bio@university.ac.uk,0123456767
+MSc Marine Biology,Advanced study in marine biology.,Department of Marine Biology,Dr. Jacques Cousteau,msc.marine.bio@university.ac.uk,0123456768
+PhD Marine Biology,Doctoral research in marine biology.,Department of Marine Biology,Dr. Eugenie Clark,phd.marine.bio@university.ac.uk,0123456769
+BSc Astronomy,Study of celestial objects and phenomena.,Department of Astronomy,Dr. Carl Sagan,bsc.astronomy@university.ac.uk,0123456770
+MSc Astronomy,Advanced study in astronomy.,Department of Astronomy,Dr. Edwin Hubble,msc.astronomy@university.ac.uk,0123456771
+PhD Astronomy,Doctoral research in astronomy.,Department of Astronomy,Dr. Stephen Hawking,phd.astronomy@university.ac.uk,0123456772
+BA Anthropology,Study of human cultures and societies.,Department of Anthropology,Dr. Margaret Mead,ba.anthropology@university.ac.uk,0123456773
+MA Anthropology,Advanced study in anthropology.,Department of Anthropology,Dr. Franz Boas,ma.anthropology@university.ac.uk,0123456774
+PhD Anthropology,Doctoral research in anthropology.,Department of Anthropology,Dr. Bronisa aw Malinowski,phd.anthropology@university.ac.uk,0123456775
+BA Archaeology,Study of human history through artifacts.,Department of Archaeology,Dr. Howard Carter,ba.archaeology@university.ac.uk,0123456776
+MA Archaeology,Advanced study in archaeology.,Department of Archaeology,Dr. Kathleen Kenyon,ma.archaeology@university.ac.uk,0123456777
+PhD Archaeology,Doctoral research in archaeology.,Department of Archaeology,Dr. Gordon Childe,phd.archaeology@university.ac.uk,0123456778
+BA Linguistics,Study of language structure and meaning.,Department of Linguistics,Dr. Noam Chomsky,ba.linguistics@university.ac.uk,0123456779
+MA Linguistics,Advanced study in linguistics.,Department of Linguistics,Dr. Ferdinand de Saussure,ma.linguistics@university.ac.uk,0123456780
+PhD Linguistics,Doctoral research in linguistics.,Department of Linguistics,Dr. Roman Jakobson,phd.linguistics@university.ac.uk,0123456781
+BA Classics,Study of ancient Greek and Roman cultures.,Department of Classics,Dr. Edith Hall,ba.classics@university.ac.uk,0123456782
+MA Classics,Advanced study in classics.,Department of Classics,Dr. Michael Porter,ma.classics@university.ac.uk,0123456783
+PhD Classics,Doctoral research in classics.,Department of Classics,Dr. Andrew Wallace-Hadrill,phd.classics@university.ac.uk,0123456784
+BA Art History,Study of the history of visual arts.,Department of Art History,Dr. E.H. Gombrich,ba.arthistory@university.ac.uk,0123456785
+MA Art History,Advanced study in art history.,Department of Art History,Dr. John Berger,ma.arthistory@university.ac.uk,0123456786
+PhD Art History,Doctoral research in art history.,Department of Art History,Dr. Rosalind Krauss,phd.arthistory@university.ac.uk,0123456787
+BA Music,Study of music theory and performance.,Department of Music,Dr. Ludwig van Beethoven,ba.music@university.ac.uk,0123456788
+MA Music,Advanced study in music.,Department of Music,Dr. Wolfgang Amadeus Mozart,ma.music@university.ac.uk,0123456789
+PhD Music,Doctoral research in music.,Department of Music,Dr. Igor Stravinsky,phd.music@university.ac.uk,0123456790
+BA Drama and Theatre,Study of drama and performance arts.,Department of Drama and Theatre,Dr. William Shakespeare,ba.drama@university.ac.uk,0123456791
+MA Drama and Theatre,Advanced study in drama and theatre.,Department of Drama and Theatre,Dr. Constantin Stanislavski,ma.drama@university.ac.uk,0123456792
+PhD Drama and Theatre,Doctoral research in drama and theatre.,Department of Drama and Theatre,Dr. Antonin Artaud,phd.drama@university.ac.uk,0123456793

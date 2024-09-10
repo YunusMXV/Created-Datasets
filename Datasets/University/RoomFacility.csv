@@ -1,0 +1,1001 @@
+Name,Room,Facility
+,70,Greenhouses
+,21,Makerspaces
+,3,Childcare Centers
+,22,Research Centers
+,83,Administrative Offices
+,61,Sports Fields
+,97,Parking Facilities
+,11,Conference Rooms
+,46,Music Rooms
+,48,Dance Studios
+,82,Career Services
+,16,Lecture Halls
+,19,Administrative Offices
+,20,Outdoor Amphitheaters
+,87,Laboratories
+,77,Counseling Services
+,37,Bookstores
+,26,Music Rooms
+,87,Computer Labs
+,6,Language Labs
+,100,Student Center
+,57,Art Studios
+,6,Computer Labs
+,5,Counseling Services
+,66,Cafeterias
+,1,Art Studios
+,2,Outdoor Amphitheaters
+,22,Makerspaces
+,93,Laboratories
+,16,Computer Labs
+,20,Bookstores
+,53,Language Labs
+,14,Lecture Halls
+,1,Childcare Centers
+,47,Music Rooms
+,68,Auditoriums
+,97,Administrative Offices
+,2,Language Labs
+,54,Dance Studios
+,58,Dormitories
+,78,Dormitories
+,30,Greenhouses
+,97,Student Center
+,43,Libraries
+,12,Parking Facilities
+,78,Student Center
+,7,Research Centers
+,69,Research Centers
+,49,Student Center
+,97,Laboratories
+,62,Administrative Offices
+,56,Laboratories
+,74,Laboratories
+,100,Conference Rooms
+,48,Makerspaces
+,45,Student Center
+,71,Libraries
+,31,Meditation Rooms
+,98,Outdoor Amphitheaters
+,50,Bookstores
+,85,Libraries
+,40,Parking Facilities
+,47,Auditoriums
+,61,Laboratories
+,59,Cafeterias
+,17,Outdoor Amphitheaters
+,6,Meditation Rooms
+,47,Meditation Rooms
+,27,Language Labs
+,51,Outdoor Amphitheaters
+,99,Health Clinics
+,7,Outdoor Amphitheaters
+,29,Counseling Services
+,44,Lecture Halls
+,46,Conference Rooms
+,89,Conference Rooms
+,46,Meditation Rooms
+,97,Dormitories
+,88,Lecture Halls
+,14,Sports Fields
+,43,Health Clinics
+,47,Recreation Centers
+,36,Conference Rooms
+,22,Outdoor Amphitheaters
+,71,Language Labs
+,93,Study Rooms
+,14,Dormitories
+,74,Conference Rooms
+,29,Greenhouses
+,16,Gymnasium
+,57,Music Rooms
+,89,Gymnasium
+,27,Art Studios
+,91,Recreation Centers
+,80,Music Rooms
+,85,Childcare Centers
+,39,Counseling Services
+,37,Laboratories
+,35,Counseling Services
+,31,Greenhouses
+,46,Laboratories
+,13,Outdoor Amphitheaters
+,75,Bookstores
+,26,Bookstores
+,32,Laboratories
+,78,Study Rooms
+,18,Auditoriums
+,20,Libraries
+,47,Study Rooms
+,27,Auditoriums
+,11,Administrative Offices
+,44,Dormitories
+,42,Parking Facilities
+,63,Conference Rooms
+,12,Laboratories
+,42,Computer Labs
+,2,Parking Facilities
+,59,Language Labs
+,33,Administrative Offices
+,55,Meditation Rooms
+,56,Music Rooms
+,17,Music Rooms
+,4,Language Labs
+,13,Auditoriums
+,29,Study Rooms
+,79,Childcare Centers
+,25,Computer Labs
+,31,Dance Studios
+,3,Sports Fields
+,81,Health Clinics
+,60,Meditation Rooms
+,10,Recreation Centers
+,39,Sports Fields
+,16,Swimming Pools
+,41,Meditation Rooms
+,65,Meditation Rooms
+,87,Career Services
+,23,Libraries
+,56,Makerspaces
+,62,Art Studios
+,62,Student Center
+,30,Makerspaces
+,37,Health Clinics
+,63,Laboratories
+,33,Swimming Pools
+,60,Gymnasium
+,68,Cafeterias
+,23,Language Labs
+,21,Bookstores
+,28,Bookstores
+,87,Study Rooms
+,7,Cafeterias
+,75,Outdoor Amphitheaters
+,12,Greenhouses
+,55,Greenhouses
+,53,Recreation Centers
+,51,Swimming Pools
+,14,Makerspaces
+,35,Gymnasium
+,57,Recreation Centers
+,62,Computer Labs
+,18,Recreation Centers
+,68,Language Labs
+,18,Makerspaces
+,90,Counseling Services
+,59,Parking Facilities
+,62,Health Clinics
+,84,Student Center
+,54,Parking Facilities
+,76,Meditation Rooms
+,39,Music Rooms
+,29,Career Services
+,100,Meditation Rooms
+,77,Lecture Halls
+,41,Counseling Services
+,6,Dormitories
+,77,Student Center
+,36,Language Labs
+,5,Greenhouses
+,78,Art Studios
+,49,Language Labs
+,95,Cafeterias
+,42,Counseling Services
+,26,Dormitories
+,27,Recreation Centers
+,99,Swimming Pools
+,25,Language Labs
+,31,Laboratories
+,17,Health Clinics
+,87,Language Labs
+,45,Health Clinics
+,21,Outdoor Amphitheaters
+,69,Bookstores
+,13,Administrative Offices
+,73,Swimming Pools
+,86,Research Centers
+,85,Computer Labs
+,57,Health Clinics
+,63,Language Labs
+,10,Gymnasium
+,71,Gymnasium
+,92,Meditation Rooms
+,60,Swimming Pools
+,97,Career Services
+,6,Swimming Pools
+,32,Administrative Offices
+,12,Libraries
+,68,Lecture Halls
+,19,Greenhouses
+,28,Music Rooms
+,91,Cafeterias
+,86,Art Studios
+,66,Research Centers
+,84,Language Labs
+,25,Music Rooms
+,90,Makerspaces
+,82,Art Studios
+,1,Outdoor Amphitheaters
+,92,Dance Studios
+,75,Dormitories
+,36,Libraries
+,26,Greenhouses
+,21,Gymnasium
+,41,Bookstores
+,12,Bookstores
+,49,Career Services
+,7,Greenhouses
+,91,Auditoriums
+,45,Outdoor Amphitheaters
+,47,Libraries
+,16,Health Clinics
+,87,Art Studios
+,12,Childcare Centers
+,10,Conference Rooms
+,78,Auditoriums
+,55,Parking Facilities
+,2,Dormitories
+,51,Dormitories
+,7,Recreation Centers
+,15,Bookstores
+,12,Swimming Pools
+,81,Computer Labs
+,14,Laboratories
+,91,Music Rooms
+,98,Study Rooms
+,27,Counseling Services
+,17,Cafeterias
+,44,Conference Rooms
+,9,Language Labs
+,85,Dormitories
+,62,Swimming Pools
+,13,Language Labs
+,87,Dance Studios
+,18,Parking Facilities
+,66,Outdoor Amphitheaters
+,76,Research Centers
+,17,Administrative Offices
+,10,Meditation Rooms
+,97,Art Studios
+,3,Swimming Pools
+,17,Auditoriums
+,85,Parking Facilities
+,13,Makerspaces
+,80,Student Center
+,94,Bookstores
+,95,Career Services
+,19,Gymnasium
+,53,Student Center
+,6,Sports Fields
+,90,Parking Facilities
+,53,Research Centers
+,68,Laboratories
+,68,Makerspaces
+,82,Auditoriums
+,22,Language Labs
+,25,Parking Facilities
+,88,Career Services
+,31,Computer Labs
+,59,Swimming Pools
+,69,Libraries
+,3,Counseling Services
+,60,Auditoriums
+,51,Lecture Halls
+,52,Libraries
+,38,Childcare Centers
+,36,Health Clinics
+,64,Bookstores
+,19,Research Centers
+,61,Counseling Services
+,18,Student Center
+,69,Career Services
+,97,Cafeterias
+,86,Greenhouses
+,32,Greenhouses
+,29,Cafeterias
+,55,Makerspaces
+,20,Study Rooms
+,24,Swimming Pools
+,23,Dormitories
+,82,Language Labs
+,36,Computer Labs
+,42,Outdoor Amphitheaters
+,79,Recreation Centers
+,76,Computer Labs
+,66,Counseling Services
+,15,Music Rooms
+,57,Cafeterias
+,33,Recreation Centers
+,80,Parking Facilities
+,59,Libraries
+,23,Research Centers
+,15,Research Centers
+,28,Parking Facilities
+,32,Lecture Halls
+,39,Student Center
+,12,Lecture Halls
+,68,Research Centers
+,15,Swimming Pools
+,83,Counseling Services
+,9,Administrative Offices
+,29,Dormitories
+,61,Libraries
+,68,Administrative Offices
+,84,Parking Facilities
+,37,Greenhouses
+,94,Recreation Centers
+,62,Research Centers
+,17,Laboratories
+,70,Gymnasium
+,73,Libraries
+,74,Swimming Pools
+,67,Career Services
+,90,Dormitories
+,17,Conference Rooms
+,79,Sports Fields
+,50,Sports Fields
+,41,Art Studios
+,92,Music Rooms
+,42,Health Clinics
+,51,Auditoriums
+,55,Outdoor Amphitheaters
+,39,Makerspaces
+,5,Recreation Centers
+,38,Libraries
+,42,Music Rooms
+,3,Dormitories
+,68,Bookstores
+,76,Laboratories
+,67,Dance Studios
+,19,Language Labs
+,64,Sports Fields
+,45,Greenhouses
+,11,Computer Labs
+,64,Music Rooms
+,48,Laboratories
+,27,Swimming Pools
+,40,Laboratories
+,64,Student Center
+,31,Study Rooms
+,2,Dance Studios
+,48,Counseling Services
+,45,Swimming Pools
+,100,Counseling Services
+,99,Art Studios
+,56,Art Studios
+,35,Swimming Pools
+,34,Meditation Rooms
+,91,Research Centers
+,20,Sports Fields
+,72,Gymnasium
+,83,Conference Rooms
+,36,Art Studios
+,73,Greenhouses
+,35,Health Clinics
+,94,Lecture Halls
+,86,Childcare Centers
+,20,Dormitories
+,71,Research Centers
+,23,Health Clinics
+,21,Student Center
+,29,Dance Studios
+,17,Counseling Services
+,99,Administrative Offices
+,34,Auditoriums
+,7,Auditoriums
+,31,Gymnasium
+,61,Computer Labs
+,74,Gymnasium
+,49,Music Rooms
+,83,Outdoor Amphitheaters
+,46,Administrative Offices
+,20,Meditation Rooms
+,28,Research Centers
+,52,Research Centers
+,78,Administrative Offices
+,12,Outdoor Amphitheaters
+,22,Conference Rooms
+,70,Laboratories
+,67,Childcare Centers
+,37,Sports Fields
+,82,Parking Facilities
+,51,Dance Studios
+,80,Laboratories
+,11,Art Studios
+,8,Dance Studios
+,6,Administrative Offices
+,18,Meditation Rooms
+,48,Childcare Centers
+,75,Computer Labs
+,57,Meditation Rooms
+,10,Research Centers
+,58,Health Clinics
+,46,Lecture Halls
+,89,Laboratories
+,80,Study Rooms
+,15,Study Rooms
+,63,Computer Labs
+,40,Makerspaces
+,49,Study Rooms
+,54,Greenhouses
+,89,Swimming Pools
+,84,Gymnasium
+,45,Research Centers
+,54,Sports Fields
+,19,Sports Fields
+,82,Lecture Halls
+,67,Conference Rooms
+,41,Greenhouses
+,65,Career Services
+,64,Computer Labs
+,35,Auditoriums
+,75,Auditoriums
+,17,Swimming Pools
+,76,Auditoriums
+,100,Music Rooms
+,8,Counseling Services
+,45,Libraries
+,84,Art Studios
+,55,Study Rooms
+,23,Recreation Centers
+,33,Childcare Centers
+,47,Computer Labs
+,87,Recreation Centers
+,66,Conference Rooms
+,99,Conference Rooms
+,5,Art Studios
+,33,Lecture Halls
+,74,Student Center
+,63,Bookstores
+,8,Music Rooms
+,60,Dance Studios
+,54,Language Labs
+,42,Gymnasium
+,33,Computer Labs
+,87,Makerspaces
+,20,Language Labs
+,82,Sports Fields
+,92,Cafeterias
+,25,Childcare Centers
+,21,Greenhouses
+,22,Sports Fields
+,78,Childcare Centers
+,97,Language Labs
+,93,Language Labs
+,16,Administrative Offices
+,43,Outdoor Amphitheaters
+,74,Auditoriums
+,41,Conference Rooms
+,36,Dormitories
+,6,Childcare Centers
+,61,Swimming Pools
+,24,Parking Facilities
+,66,Recreation Centers
+,72,Student Center
+,1,Gymnasium
+,95,Auditoriums
+,2,Meditation Rooms
+,45,Makerspaces
+,85,Dance Studios
+,8,Lecture Halls
+,56,Research Centers
+,3,Outdoor Amphitheaters
+,41,Gymnasium
+,38,Sports Fields
+,64,Health Clinics
+,92,Health Clinics
+,98,Greenhouses
+,99,Childcare Centers
+,87,Sports Fields
+,46,Dormitories
+,12,Dormitories
+,4,Study Rooms
+,31,Music Rooms
+,64,Administrative Offices
+,19,Parking Facilities
+,65,Health Clinics
+,48,Art Studios
+,71,Administrative Offices
+,56,Career Services
+,8,Makerspaces
+,83,Laboratories
+,2,Swimming Pools
+,58,Libraries
+,14,Conference Rooms
+,43,Childcare Centers
+,31,Dormitories
+,83,Lecture Halls
+,81,Conference Rooms
+,30,Libraries
+,44,Health Clinics
+,85,Conference Rooms
+,60,Conference Rooms
+,70,Art Studios
+,65,Recreation Centers
+,18,Career Services
+,37,Career Services
+,75,Student Center
+,90,Gymnasium
+,28,Dormitories
+,82,Computer Labs
+,38,Research Centers
+,30,Auditoriums
+,26,Gymnasium
+,88,Dance Studios
+,4,Recreation Centers
+,34,Computer Labs
+,5,Student Center
+,92,Computer Labs
+,64,Language Labs
+,61,Meditation Rooms
+,36,Swimming Pools
+,98,Gymnasium
+,76,Health Clinics
+,10,Counseling Services
+,64,Conference Rooms
+,77,Computer Labs
+,24,Language Labs
+,5,Outdoor Amphitheaters
+,51,Greenhouses
+,25,Bookstores
+,75,Study Rooms
+,54,Conference Rooms
+,40,Study Rooms
+,54,Student Center
+,17,Meditation Rooms
+,38,Computer Labs
+,10,Sports Fields
+,35,Dance Studios
+,9,Childcare Centers
+,88,Dormitories
+,6,Recreation Centers
+,6,Parking Facilities
+,55,Career Services
+,54,Recreation Centers
+,93,Bookstores
+,24,Cafeterias
+,13,Bookstores
+,57,Career Services
+,63,Student Center
+,97,Libraries
+,38,Recreation Centers
+,66,Dormitories
+,21,Dormitories
+,6,Libraries
+,31,Parking Facilities
+,95,Computer Labs
+,20,Swimming Pools
+,48,Outdoor Amphitheaters
+,4,Outdoor Amphitheaters
+,90,Language Labs
+,71,Laboratories
+,36,Student Center
+,30,Computer Labs
+,43,Meditation Rooms
+,57,Computer Labs
+,88,Greenhouses
+,62,Counseling Services
+,91,Bookstores
+,11,Language Labs
+,24,Laboratories
+,50,Music Rooms
+,32,Childcare Centers
+,98,Language Labs
+,49,Greenhouses
+,41,Computer Labs
+,2,Lecture Halls
+,71,Outdoor Amphitheaters
+,15,Outdoor Amphitheaters
+,66,Art Studios
+,11,Study Rooms
+,32,Research Centers
+,83,Parking Facilities
+,10,Childcare Centers
+,10,Laboratories
+,23,Student Center
+,38,Gymnasium
+,1,Study Rooms
+,11,Swimming Pools
+,83,Childcare Centers
+,9,Lecture Halls
+,42,Research Centers
+,65,Conference Rooms
+,88,Laboratories
+,49,Swimming Pools
+,79,Research Centers
+,54,Cafeterias
+,82,Dormitories
+,78,Conference Rooms
+,9,Career Services
+,33,Greenhouses
+,21,Study Rooms
+,88,Research Centers
+,84,Research Centers
+,35,Makerspaces
+,34,Outdoor Amphitheaters
+,93,Parking Facilities
+,66,Auditoriums
+,19,Dance Studios
+,90,Meditation Rooms
+,40,Bookstores
+,94,Parking Facilities
+,75,Parking Facilities
+,69,Dormitories
+,18,Laboratories
+,36,Sports Fields
+,51,Computer Labs
+,77,Gymnasium
+,89,Greenhouses
+,68,Dance Studios
+,44,Parking Facilities
+,27,Outdoor Amphitheaters
+,18,Research Centers
+,29,Meditation Rooms
+,15,Sports Fields
+,74,Study Rooms
+,27,Meditation Rooms
+,92,Administrative Offices
+,30,Health Clinics
+,60,Sports Fields
+,59,Recreation Centers
+,43,Music Rooms
+,69,Conference Rooms
+,71,Lecture Halls
+,51,Libraries
+,31,Language Labs
+,64,Parking Facilities
+,72,Language Labs
+,77,Study Rooms
+,13,Meditation Rooms
+,47,Gymnasium
+,58,Greenhouses
+,79,Counseling Services
+,85,Student Center
+,67,Cafeterias
+,16,Music Rooms
+,62,Greenhouses
+,13,Research Centers
+,1,Bookstores
+,78,Sports Fields
+,82,Counseling Services
+,88,Bookstores
+,23,Gymnasium
+,54,Laboratories
+,15,Art Studios
+,28,Sports Fields
+,65,Student Center
+,94,Makerspaces
+,69,Makerspaces
+,19,Study Rooms
+,53,Greenhouses
+,54,Auditoriums
+,71,Counseling Services
+,66,Makerspaces
+,74,Research Centers
+,88,Gymnasium
+,15,Parking Facilities
+,100,Dormitories
+,81,Career Services
+,78,Dance Studios
+,46,Art Studios
+,4,Administrative Offices
+,25,Dance Studios
+,8,Swimming Pools
+,74,Health Clinics
+,8,Computer Labs
+,71,Health Clinics
+,46,Greenhouses
+,9,Counseling Services
+,1,Administrative Offices
+,81,Recreation Centers
+,79,Bookstores
+,100,Bookstores
+,96,Childcare Centers
+,58,Conference Rooms
+,63,Health Clinics
+,87,Parking Facilities
+,84,Bookstores
+,14,Computer Labs
+,90,Lecture Halls
+,55,Laboratories
+,42,Laboratories
+,17,Dance Studios
+,34,Art Studios
+,91,Childcare Centers
+,72,Art Studios
+,85,Bookstores
+,79,Student Center
+,47,Parking Facilities
+,35,Libraries
+,47,Makerspaces
+,89,Lecture Halls
+,62,Meditation Rooms
+,53,Art Studios
+,44,Meditation Rooms
+,98,Dance Studios
+,16,Dormitories
+,96,Computer Labs
+,48,Research Centers
+,44,Counseling Services
+,63,Career Services
+,65,Laboratories
+,83,Meditation Rooms
+,8,Study Rooms
+,17,Parking Facilities
+,95,Laboratories
+,18,Health Clinics
+,9,Recreation Centers
+,42,Auditoriums
+,8,Sports Fields
+,9,Music Rooms
+,86,Auditoriums
+,69,Health Clinics
+,23,Study Rooms
+,58,Makerspaces
+,73,Laboratories
+,39,Language Labs
+,2,Bookstores
+,37,Meditation Rooms
+,1,Student Center
+,85,Outdoor Amphitheaters
+,52,Career Services
+,42,Lecture Halls
+,34,Study Rooms
+,72,Auditoriums
+,8,Libraries
+,57,Childcare Centers
+,35,Parking Facilities
+,44,Auditoriums
+,89,Administrative Offices
+,70,Research Centers
+,16,Language Labs
+,86,Health Clinics
+,93,Greenhouses
+,55,Bookstores
+,91,Sports Fields
+,30,Administrative Offices
+,27,Laboratories
+,92,Art Studios
+,96,Recreation Centers
+,44,Art Studios
+,25,Lecture Halls
+,97,Makerspaces
+,3,Auditoriums
+,92,Auditoriums
+,27,Lecture Halls
+,56,Study Rooms
+,27,Cafeterias
+,1,Dormitories
+,10,Lecture Halls
+,95,Music Rooms
+,81,Laboratories
+,10,Swimming Pools
+,1,Dance Studios
+,10,Greenhouses
+,17,Recreation Centers
+,85,Gymnasium
+,79,Language Labs
+,45,Counseling Services
+,96,Study Rooms
+,25,Cafeterias
+,2,Recreation Centers
+,93,Computer Labs
+,19,Laboratories
+,94,Libraries
+,59,Career Services
+,66,Career Services
+,24,Computer Labs
+,49,Art Studios
+,99,Career Services
+,38,Art Studios
+,82,Swimming Pools
+,27,Health Clinics
+,28,Swimming Pools
+,64,Dormitories
+,55,Sports Fields
+,67,Research Centers
+,18,Greenhouses
+,62,Bookstores
+,87,Music Rooms
+,55,Childcare Centers
+,9,Cafeterias
+,9,Outdoor Amphitheaters
+,35,Sports Fields
+,16,Makerspaces
+,27,Libraries
+,85,Counseling Services
+,84,Dormitories
+,17,Gymnasium
+,73,Art Studios
+,86,Outdoor Amphitheaters
+,52,Music Rooms
+,72,Counseling Services
+,10,Language Labs
+,70,Makerspaces
+,82,Recreation Centers
+,7,Career Services
+,23,Lecture Halls
+,28,Art Studios
+,30,Dance Studios
+,31,Career Services
+,33,Conference Rooms
+,58,Music Rooms
+,33,Sports Fields
+,36,Makerspaces
+,97,Research Centers
+,6,Lecture Halls
+,8,Outdoor Amphitheaters
+,27,Parking Facilities
+,64,Dance Studios
+,70,Computer Labs
+,98,Administrative Offices
+,4,Computer Labs
+,30,Music Rooms
+,53,Outdoor Amphitheaters
+,26,Dance Studios
+,57,Libraries
+,81,Meditation Rooms
+,7,Art Studios
+,5,Conference Rooms
+,63,Study Rooms
+,48,Language Labs
+,36,Childcare Centers
+,18,Libraries
+,5,Bookstores
+,75,Research Centers
+,2,Gymnasium
+,51,Administrative Offices
+,22,Study Rooms
+,16,Meditation Rooms
+,52,Sports Fields
+,43,Cafeterias
+,86,Meditation Rooms
+,28,Gymnasium
+,15,Student Center
+,34,Research Centers
+,60,Language Labs
+,29,Lecture Halls
+,53,Bookstores
+,5,Language Labs
+,66,Study Rooms
+,84,Childcare Centers
+,71,Sports Fields
+,69,Lecture Halls
+,90,Auditoriums
+,14,Dance Studios
+,9,Student Center
+,73,Cafeterias
+,48,Dormitories
+,30,Parking Facilities
+,4,Cafeterias
+,18,Counseling Services
+,20,Art Studios
+,20,Health Clinics
+,92,Bookstores
+,19,Career Services
+,76,Childcare Centers
+,10,Art Studios
+,88,Makerspaces
+,44,Language Labs
+,50,Dormitories
+,10,Health Clinics
+,95,Parking Facilities
+,5,Administrative Offices
+,1,Auditoriums
+,8,Greenhouses
+,70,Parking Facilities
+,44,Outdoor Amphitheaters
+,59,Childcare Centers
+,78,Swimming Pools
+,55,Computer Labs
+,14,Recreation Centers
+,41,Makerspaces
+,16,Bookstores
+,94,Study Rooms
+,86,Recreation Centers
+,50,Career Services
+,94,Greenhouses
+,73,Research Centers
+,4,Student Center
+,87,Cafeterias
+,88,Conference Rooms
+,6,Career Services
+,43,Language Labs
+,71,Conference Rooms
+,5,Dormitories
+,33,Dormitories
+,1,Parking Facilities
+,55,Auditoriums
+,37,Language Labs
+,72,Childcare Centers
+,29,Research Centers
+,89,Computer Labs
+,20,Research Centers
+,58,Administrative Offices
+,93,Libraries
+,56,Lecture Halls
+,53,Lecture Halls
+,20,Career Services
+,39,Outdoor Amphitheaters
+,100,Makerspaces
+,75,Sports Fields
+,16,Outdoor Amphitheaters
+,61,Childcare Centers
+,92,Gymnasium
+,72,Dormitories
+,8,Bookstores
+,34,Greenhouses
+,52,Dormitories
+,46,Bookstores
+,35,Language Labs
+,72,Conference Rooms
+,44,Research Centers
+,75,Makerspaces
+,15,Lecture Halls
+,63,Counseling Services
+,40,Meditation Rooms
+,24,Career Services
+,92,Sports Fields
+,60,Counseling Services
+,47,Dormitories
+,57,Student Center
+,2,Career Services
+,37,Dance Studios
+,30,Childcare Centers
+,91,Dance Studios
+,99,Lecture Halls
+,75,Swimming Pools
+,42,Greenhouses
+,74,Libraries
+,57,Language Labs
+,65,Makerspaces
+,51,Art Studios
+,70,Language Labs
+,32,Dance Studios
+,66,Meditation Rooms
+,1,Laboratories
+,74,Art Studios
+,38,Music Rooms
+,88,Libraries
+,43,Dormitories
+,79,Laboratories
+,56,Dormitories
+,16,Auditoriums
+,10,Computer Labs
+,91,Gymnasium
+,80,Art Studios
+,39,Lecture Halls
+,97,Bookstores
+,73,Counseling Services
+,21,Cafeterias
+,56,Computer Labs
+,66,Gymnasium
+,92,Recreation Centers
+,13,Art Studios
+,17,Lecture Halls
+,90,Computer Labs
+,71,Greenhouses
+,11,Student Center
+,60,Childcare Centers
+,39,Health Clinics
+,83,Makerspaces
+,73,Recreation Centers
+,89,Bookstores
+,69,Gymnasium
+,85,Makerspaces
+,71,Swimming Pools
+,35,Laboratories
+,84,Libraries
+,25,Outdoor Amphitheaters
+,23,Swimming Pools
+,13,Counseling Services
+,81,Dormitories
+,42,Conference Rooms
+,75,Recreation Centers
+,39,Dormitories
+,68,Parking Facilities
+,6,Research Centers
+,22,Swimming Pools
+,32,Outdoor Amphitheaters
+,14,Research Centers
